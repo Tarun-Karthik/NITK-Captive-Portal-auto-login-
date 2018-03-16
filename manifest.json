@@ -8,6 +8,8 @@
   "content_scripts": [
     {
       "matches": ["https://nac.nitk.ac.in:8090/"],
+      "matches": ["https://10.10.54.4:8090/"],
+      "matches": ["https://10.10.54.4:8090/httpclient.html"],
       "js": ["login.js"]
     }
   ]
