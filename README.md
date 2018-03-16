@@ -5,6 +5,8 @@ Go to chrome://extensions and click Developer Mode at the top.
 
 Click Load unpacked extenson....
 
+Select the folder in which the cloned files are present
+
 in the login.js file enter your username and password and save it
 
 Now whenever you navigate to
